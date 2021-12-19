@@ -1,35 +1,19 @@
 ---
-title: "站点建设备忘"
-
-subtitle: 
-
-# Summary for listings and search engines
-summary: "Wowchemy 建站"
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2021-12-19T16:39:00Z"
-
-# Date updated
-lastmod: "2021-12-19T21:00:00Z"
-
-# Is this an unpublished draft?
+title: 站点建设备忘
+subtitle: null
+date: 2021-12-19T15:25:59.471Z
+summary: Wowchemy 建站
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
 authors: mofufu
-
+lastmod: 2021-12-19T21:00:00Z
 tags:
   - Wowchemy
   - Netlify
-
 categories:
-  - memo
-
+  - admin
+  - mofufu
+projects: []
 ---
 
 ## 总括
