@@ -19,6 +19,9 @@ interests:
   - Goal and Motivation
 
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:denghuixin_stephy@outlook.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HuixinDeng
@@ -28,9 +31,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/huixin-deng-64742192/
-  - icon: cv
-    icon_pack: ai
-    link: doc/huixindeng_cv_en_sep2021.pdf
 
 education:
   courses:
@@ -51,5 +51,4 @@ I am a Ph.D. student in Marketing at the School of Management, Fudan
   design in referral programs, and price promotion. I am also a podcast producer
   and harmonica lover.
 
-# 猫猫下次要改简历的 pdf 需要把 pdf 丢到项目路径的 /static/doc 里，然后修改下面的文件名就好了！
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "doc/huixindeng_cv_en_sep2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
