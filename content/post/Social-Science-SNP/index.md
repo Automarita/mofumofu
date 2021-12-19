@@ -1,42 +1,18 @@
 ---
 title: Social Science in SNP
-subtitle: 
-
-# Summary for listings and search engines
-summary: 
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2021-11-02T16:39:00Z"
-
-# Date updated
-lastmod: "2021-11-05T21:00:00Z"
-
-# Is this an unpublished draft?
+subtitle: null
+date: 2021-11-02T16:39:00Z
+summary: （缺图有空再补）
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-#image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  #focal_point: ""
-  #placement: 2
-  #preview_only: false
-
 authors:
   - admin
-
+lastmod: 2021-11-05T21:00:00Z
 tags:
-  -
-
+  - null
 categories:
   - readings
-
+projects: []
 ---
 
 这个系列希望收藏在 General Science Field (Science, Nature, PNAS, etc) 当中的社会科学研究。包括但不限于对于研究选题，使用数据集，数据分析方法等内容的探究。
