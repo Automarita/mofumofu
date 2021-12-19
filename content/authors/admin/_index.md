@@ -25,6 +25,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HuixinDeng
+  - icon: zhihu
+    icon_pack: fab
+    link: https://www.zhihu.com/people/deng-hui-xin
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=Vl0cIisAAAAJ
