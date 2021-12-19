@@ -5,14 +5,13 @@ date: 2021-12-19T15:25:59.471Z
 summary: Wowchemy 建站
 draft: false
 featured: false
-authors: mofufu
+authors: admin
 lastmod: 2021-12-19T21:00:00Z
 tags:
   - Wowchemy
   - Netlify
 categories:
-  - admin
-  - mofufu
+  - memo
 projects: []
 ---
 
