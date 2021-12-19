@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: "2021-12-19T16:39:00Z"
+date: "2021-11-02T16:39:00Z"
 
 # Date updated
-lastmod: "2021-12-19T21:00:00Z"
+lastmod: "2021-11-05T21:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -116,4 +116,3 @@ Dai, H., Saccardo, S., Han, M. A., Roh, L., Raja, N., Vangala, S., ... & Croyman
 文章定义了一个概念叫“可被允许的消费 (permission consumption)”，说的是在人们的评价体系中，会认为其他人购买某种产品是可以/不可以被允许的。作者发现，人们对于低收入人士，会认为他们可被允许的消费是更少的。同样的有机食物，人们会认为收入更高的人进行购买是合适的，而收入较低的人就不应该购买同样的食物。而导致这个结果的原因，并不是人们认为有钱人能支配的金额更多，而是人们会认为低收入人群的需求（perceived necessity）是更少的。从文章的方法来看，主要是实验室实验，证明了人们有这样的lay belief：穷人不应该多花钱，我个人认为其实是long-term来说，开源节流是对穷人更“有利”的生存方式。但是，或许在崇尚人人平等、个人主义较为盛行的西方话语体系中，“公平”，亦或是“平等被对待”是更为重要的。文章的第一作者 Serena 是 Harvard Business School 的 marketing PhD candidate，到我交换的学校做 job talk 的时候，分享的几个正在进行的项目都是跟 social class heterogeneity 相关的研究，或许这确实是一个非常重要的研究方向吧。
 
 Hagerty, S. F., & Barasz, K. (2020). Inequality in socially permissible consumption.Proceedings of the National Academy of Sciences,117(25), 14084-14093.
-
