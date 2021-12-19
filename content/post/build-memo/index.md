@@ -1,5 +1,6 @@
 ---
 title: "站点建设备忘"
+
 subtitle: 
 
 # Summary for listings and search engines
@@ -20,8 +21,7 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-authors:
-  - mofufu
+authors: mofufu
 
 tags:
   - Wowchemy
@@ -36,7 +36,7 @@ categories:
 
 借助 Wowchemy 提供的模版和 Hugo 静态网站渲染引擎，将相对简单的样式配置和图文资源编译成可供浏览器展现的网页资源（指 HTML/CSS/JavaScript），这就是现代个人网站建设的一般模式。由于 Wowchemy 同时提供在 Netlify 托管渲染的执行脚本，我们在 Netlify 上注册了本项目，Wowchemy 提供的模板和我们自己的样式配置、图文资源同步更新在 GitHub 的自建仓库中，为提高效率，同时授权 Netlify 项目监听自建仓库的代码提交，当自建仓库对应的代码分支发生新的提交事件时，Netlify 项目立即触发一次编译和部署，如果没有差错产生，更新的内容或配置将立即在 Netlify 托管的页面上生效。
 
-{{< figure src="/static/img/wowchemy-netlify.svg" title="你需要理解简单的配置如何转化成网页资源，以及，Netlify 「部署」时发生了什么" >}}
+{{< figure src="/static/media/wowchemy-netlify.svg" title="你需要理解简单的配置如何转化成网页资源，以及，Netlify 「部署」时发生了什么" >}}
 
 ## Features
 
