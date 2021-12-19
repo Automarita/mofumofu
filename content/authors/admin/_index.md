@@ -28,9 +28,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/huixin-deng-64742192/
- - icon: cv
-   icon_pack: ai
-   link: doc/huixindeng_cv_en_sep2021.pdf
+  - icon: cv
+    icon_pack: ai
+    link: doc/huixindeng_cv_en_sep2021.pdf
 
 education:
   courses:
