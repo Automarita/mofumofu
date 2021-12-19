@@ -29,14 +29,13 @@ featured: false
   #preview_only: false
 
 authors:
-- mofufu
+  - admin
 
 tags:
-- Wowchemy
-- Netlify
+  -
 
 categories:
-- memo
+  - readings
 
 ---
 
