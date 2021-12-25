@@ -6,7 +6,7 @@
 # Appearance
 
 theme: rose
-day_night: true
+day_night: night
 font: 'rose'
 font_size: m
 
