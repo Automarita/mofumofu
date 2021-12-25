@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: rose
 day_night: true
-font: ''
-font_size: L
+font: 'rose'
+font_size: m
 
 # SEO
 
@@ -151,7 +151,7 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: master
+  branch: debug
   local_backend: false
 icon:
   pack:
