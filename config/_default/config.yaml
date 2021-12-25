@@ -5,7 +5,7 @@
 
 title: Huixin Deng # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: 'Powered by Wowchemy and Netlify © 2021-{year} Huixin Deng' # Footer text
+copyright: 'Copyright © 2021-{year} Huixin Deng' # Footer text
 
 ############################
 ## LANGUAGE

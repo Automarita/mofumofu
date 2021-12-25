@@ -12,5 +12,5 @@ view: 2
 header:
   caption: ""
   image: ""
-#  image: "https://www.kinggoya.com/wp-content/uploads/2014/09/train-summer-med1-1068x580.jpg"
+  #image: "https://www.kinggoya.com/wp-content/uploads/2014/09/train-summer-med1-1068x580.jpg"
 ---

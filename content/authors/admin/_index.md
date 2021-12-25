@@ -44,14 +44,13 @@ education:
       institution: Fudan University
       year: 2018
 
-email: "denghuixin_stephy [AT] outlook.com"
+email: "denghuixin_stephy@outlook.com"
 
 highlight_name: true
 ---
 
 I am a Ph.D. student in Marketing at the School of Management, Fudan
   University. My research topics cover consumer motive inference, incentive
-  design in referral programs, and price promotion. I am also a podcast producer
-  and harmonica lover.
+  design in referral programs, and price promotion. I am also a podcast producer and harmonica lover.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "doc/huixindeng_cv_en_sep2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
