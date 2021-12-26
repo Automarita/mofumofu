@@ -5,8 +5,9 @@
 
 # Appearance
 
-theme: rose
-day_night: night
+theme: Rose
+day_night: true
+dark: true
 font: 'rose'
 font_size: m
 
