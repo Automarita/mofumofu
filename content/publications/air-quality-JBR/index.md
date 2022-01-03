@@ -84,3 +84,6 @@ url_dataset: ''
 # Create your slides in Markdown - click the *Slides* button to check out the example.
 # {{% /callout %}}
 ---
+
+## abstract
+Air pollution has been a major environmental problem impacting billions of people worldwide. Despite a large stream of literature discussing the psychological, economic, and environmental effects of air pollution, limited research has explored how people’s pro-environmental behavior (PEB) is affected by air pollution. The present research indicates that people are less willing to engage in PEB when air pollution is severe. Our results show that public attention to PEB is significantly negatively related to air quality (Pilot Study). Additionally, when exposed to air pollution, people are less likely to purchase pro-environmental products (Studies 1 and 2), engage in recycling (Study 3), participate in sustainable travel (Study 4) and donate to environmental organizations (Studies 4 and 5). This is because the negative mood triggered by air pollution inhibits their willingness to engage in PEB (Studies 1 and 3). The theoretical and practical implications of the present research are also discussed.
