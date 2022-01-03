@@ -53,4 +53,4 @@ I am a Ph.D. student in Marketing at the School of Management, Fudan
   University. My research topics cover consumer motive inference, incentive
   design in referral programs, and price promotion. I am also a podcast producer and harmonica lover.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "doc/huixindeng_cv_en_sep2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "doc/HuixinDeng_CV_EN_Jan2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
