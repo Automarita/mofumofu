@@ -38,7 +38,7 @@ summary: People are less willing to engage in PEB (e.g., purchasing pro-environm
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
