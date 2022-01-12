@@ -7,7 +7,6 @@
 
 theme: Rose
 day_night: true
-dark: true
 font: 'rose'
 font_size: m
 
@@ -16,7 +15,7 @@ font_size: m
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Huixin Deng (Fudan University)'
 twitter: ''
 
 # Contact (edit or remove options as required)
