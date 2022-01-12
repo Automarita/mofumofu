@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Huixin Deng # Website name
-baseurl: 'https://huixin317.netlify.app/' # Website URL
+baseurl: 'https://hxd.netlify.app/' # Website URL
 copyright: 'Copyright © 2021-{year} Huixin Deng' # Footer text
 
 ############################
