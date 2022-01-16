@@ -17,7 +17,6 @@
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
-  package = "netlify-build-plugin-pagewatch"
   [plugins.inputs]
     debug = true
 
