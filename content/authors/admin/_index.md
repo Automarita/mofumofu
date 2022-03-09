@@ -10,8 +10,10 @@ avatar_filename: avatar.jpg
 organizations:
 - name: Fudan University
   url: https://www.fudan.edu.cn/
-
-bio: SHORT BIO DISPLAYED IN USER PROFILE AT END OF POSTS
+- name: Fudan Behavioral Science Center
+  url: https://fdbsc.com/
+  
+bio: 
 
 interests:
   - Consumer Behavior
@@ -53,4 +55,4 @@ I am a Ph.D. student in Marketing at the School of Management, Fudan
   University. My research topics cover consumer motive inference, incentive
   design in referral programs, and price promotion. I am also a podcast producer and harmonica lover.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "doc/HuixinDeng_CV_EN_Jan2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "doc/HuixinDeng_CV_EN_Mar2022.pdf" "newtab" >}}resumé{{< /staticref >}}.

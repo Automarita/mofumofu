@@ -1,13 +1,13 @@
 ---
 title: Social Science in SNP
 subtitle: null
-date: 2021-11-02T16:39:00Z
+date: 2022-02-07T16:39:00Z
 summary: 
 draft: false
 featured: false
 authors:
   - admin
-lastmod: 2021-11-05T21:00:00Z
+lastmod: 2022-02-07T21:00:00Z
 tags:
   - null
 categories:
