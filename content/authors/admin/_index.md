@@ -8,8 +8,6 @@ role: PhD. Student
 avatar_filename: avatar.jpg
 
 organizations:
-- name: Fudan University
-  url: https://www.fudan.edu.cn/
 - name: Fudan Behavioral Science Center
   url: https://fdbsc.com/
   

@@ -15,16 +15,6 @@ event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-fri
 #summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: 这个周五晚跟我聊天的是我的好朋友Peter，他的每一步职业规划好像都踩在了同龄人羡慕的时代的”风口“上。从咨询顾问，到深耕在机器学习领域的数据科学家，从字节跳动到谷歌中国。这个周五的晚上，我们一起聊了一下社会科学对于一个数据科学家的作用。
 
-你将会听到: 
-
-社会科学研究对于数据分析师而言有什么作用？
-
-在公司当中做AB test是一件极其困难的事情，数据分析师是如何将社会科学的探究方法运用到企业实践中的呢？
-
-Google的海量数据能够给顾客提供怎样的服务？
-
-Google是不是已经陷入了中年危机？
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-09-04 T13:00:00Z"
@@ -70,6 +60,11 @@ featured: false
 # - example
 ---
 
+**你将会听到** 
+  - 社会科学研究对于数据分析师而言有什么作用？
+  - 在公司当中做AB test是一件极其困难的事情，数据分析师是如何将社会科学的探究方法运用到企业实践中的呢？
+  - Google的海量数据能够给顾客提供怎样的服务？
+  - Google是不是已经陷入了中年危机？
 
 ## 主播 & 嘉宾:
 
@@ -83,7 +78,6 @@ featured: false
 ## Shownote
 
 ### 复旦管院褚荣伟老师公众号关于农民工的研究
-
   - [我命由我不由天？| 穷人的短视干预（下）](https://mp.weixin.qq.com/s/HC6b1Zd4RJ4yEcEYT1uBQg)
 
 ### Google 完成A/B test 的方法论文章 
@@ -95,6 +89,5 @@ featured: false
 
 ### 一些Google内部的创新项目
   - [Google project Loon] (https://zh.wikipedia.org/wiki/Project_Loon)
-  
   - [Waymo](https://zh.wikipedia.org/zh-hans/Waymo)
   - [Google云服务的Auto ML介绍](https://cloud.google.com/automl?hl=zh-cn)

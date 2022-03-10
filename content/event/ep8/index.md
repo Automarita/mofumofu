@@ -13,9 +13,7 @@ event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-fri
 #   country: United States
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 今天跟我聊天的“网友”有个特别的网名——摸鱼人覃含章，说是“摸鱼”但他对待学术却是一点都不含糊。清华数学本科，现在在MIT做的是运筹学（operation research, OR）研究，他走的大概是很多希望走学术道路的人遥不可及却又带着羡慕的路径。
-
-我第一次看含章的视频是在知乎上，后来也在B站陆续看到他做的一些跟运筹学相关的科普类的视频。如果说消费者行为学是心理学在商业领域的应用，那么运筹学(operation research)可以被类比为数学在实际商业场景中的实践。今天，我打算跟他聊聊，运筹学作为决策科学的一些有趣的想法。
+abstract: 今天跟我聊天的“网友”有个特别的网名——摸鱼人覃含章，说是“摸鱼”但他对待学术却是一点都不含糊。清华数学本科，现在在MIT做的是运筹学（operation research, OR）研究，他走的大概是很多希望走学术道路的人遥不可及却又带着羡慕的路径。我第一次看含章的视频是在知乎上，后来也在B站陆续看到他做的一些跟运筹学相关的科普类的视频。如果说消费者行为学是心理学在商业领域的应用，那么运筹学(operation research)可以被类比为数学在实际商业场景中的实践。今天，我打算跟他聊聊，运筹学作为决策科学的一些有趣的想法。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -70,8 +68,8 @@ featured: false
 
 
 ## BGM
-IDIOTAPE-sunset strip
-IDIOTAPE-Melodie 
+- IDIOTAPE-sunset strip
+- IDIOTAPE-Melodie 
 
 ## Shownote
 

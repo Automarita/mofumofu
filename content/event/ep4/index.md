@@ -61,10 +61,7 @@ featured: false
 ---
 
 - 节目由三篇通俗向介绍人工智能文章组成：
-  - [Machine behaviour](https://www.nature.com/articles/s41586-019-1138-y]
-  - 一篇希望能够建立机器行为学的科普文章。
-  - [Soul and machine (learning)](https://www.hbs.edu/faculty/Publication%20Files/20-036_4f5b2ef5-d38e-454f-8e78-f5dc27c34b1e.pdf)
-  - 探讨消费者和公司作为soul如何影响机器进行判断，也有一个有趣的框架。
-  - [Marketing in the Age of Alexa] (https://hbr.org/2018/05/marketing-in-the-age-of-alexa)
-  - 探讨如何将AI平台作为新的流量入口为企业创造价值。
+  - [Machine behaviour](https://www.nature.com/articles/s41586-019-1138-y] (一篇希望能够建立机器行为学的科普文章)
+  - [Soul and machine (learning)](https://www.hbs.edu/faculty/Publication%20Files/20-036_4f5b2ef5-d38e-454f-8e78-f5dc27c34b1e.pdf)，探讨消费者和公司作为soul如何影响机器进行判断，也有一个有趣的框架。
+  - [Marketing in the Age of Alexa] (https://hbr.org/2018/05/marketing-in-the-age-of-alexa)，探讨如何将AI平台作为新的流量入口为企业创造价值。
   
