@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+.Rhistory
 .DS_Store
 
 # Hugo
