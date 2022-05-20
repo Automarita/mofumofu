@@ -7,9 +7,10 @@ role: PhD. Student
 
 avatar_filename: avatar.jpg
 
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: Fudan Behavioral Science Center
-  url: https://fdbsc.com/
+  - name: Fudan Behavioral Science Center
+    url: https://fdbsc.com/
   
 bio: 
 
@@ -17,6 +18,18 @@ interests:
   - Consumer Behavior
   - Managing Incentive
   - Goal and Motivation
+
+# Education to show in About widget
+
+education:
+  courses:
+    - course: PhD Student in Business Administration
+      institution: Fudan University
+      year: ""
+    - course: BSc in Financial Management
+      institution: Fudan University
+      year: 2018
+
 
 social:
   - icon: envelope
@@ -34,15 +47,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/huixin-deng-64742192/
-
-education:
-  courses:
-    - course: PhD Student in Business Administration
-      institution: Fudan University
-      year: ""
-    - course: BSc in Financial Management
-      institution: Fudan University
-      year: 2018
 
 email: "denghuixin_stephy@outlook.com"
 
