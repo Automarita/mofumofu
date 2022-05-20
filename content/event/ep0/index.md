@@ -60,6 +60,8 @@ featured: false
 # - example
 ---
 
+{{<audio src="半阶降序练习曲.mp3" control="yes" >}}
+
 
 ## 主播 & 嘉宾:
 
