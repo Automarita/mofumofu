@@ -1,5 +1,5 @@
 ---
-title: "不会倾听的产品经理不是好的魔术师|Andy 王越"
+title: "S1E6 不会倾听的产品经理不是好的魔术师|Andy 王越"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -16,12 +16,12 @@ event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-fri
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-17 T13:00:00Z"
+date: "2020-12-17T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-29T00:00:00Z"
+publishDate: "2020-12-17T00:00:00Z"
 
 authors: []
 tags: []

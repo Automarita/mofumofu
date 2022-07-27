@@ -1,5 +1,5 @@
 ---
-title: "好的“歧视”应该能够促进社会的公平和正义 | 算法歧视中的经济学与心理学 | Sleepsoft"
+title: "S1E0 好的“歧视”应该能够促进社会的公平和正义 | 算法歧视中的经济学与心理学 | Sleepsoft"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -22,7 +22,7 @@ date: "2020-09-03T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-21T00:00:00Z"
+publishDate: "2020-09-03T13:00:00Z"
 
 authors: []
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: "从P站的疫情营销说开去：文化, 心理与性观念 | 1024快乐 | 熊希灵"
+title: "S1E5 从P站的疫情营销说开去：文化, 心理与性观念 | 1024快乐 | 熊希灵"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -16,12 +16,12 @@ event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-fri
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-10T13:00:00Z"
+date: "2020-10-24T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-29T00:00:00Z"
+publishDate: "2020-10-24T00:00:00Z"
 
 authors: []
 tags: []

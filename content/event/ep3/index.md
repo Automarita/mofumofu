@@ -1,5 +1,5 @@
 ---
-title: "消费心理，神经科学作为方法 | 【神经漫游】出品"
+title: "S1E3 消费心理，神经科学作为方法 | 【神经漫游】出品"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -13,16 +13,15 @@ event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-fri
 #   country: United States
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 长假来临的时候与友人结伴出游，同样是从上海到北京的机票，为什么平台给我显示的价格比别人贵，是“大数据对我杀熟”了吗？秋招季来临，有人投了成千上百的职位，无奈卡在简历关无法通过下一轮面试，难道是HR没有在招聘系统里看到我的简历吗？“司法系统”，“升学择校”，你是否有想过，这些对于人生有重大影响的决策，现在被一个新的要素——“智能算法”所左右。而设计这些算法的底层机制，离不开经济学跟心理学的考量。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-06T13:00:00Z"
+date: "2020-10-01T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-25T00:00:00Z"
+publishDate: "2020-10-01T00:00:00Z"
 
 authors: []
 tags: []

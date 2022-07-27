@@ -23,7 +23,7 @@ projects: []
 
 虽然没有用所谓的中介变量进行检验，但从边界条件的视角验证了相关假设。在我看来，是蛮有意思的一个研究。但毕竟也是5年前发表的文章了，可能现在还是需要外部效度更高的实地试验来验证相关的结论。
 
-## 投资者记忆偏误与过度自信 Investor memory of past performance is positively biased and predicts overconfidence, PNAS
+## 2. 投资者记忆偏误与过度自信 Investor memory of past performance is positively biased and predicts overconfidence, PNAS
 
 研究者要求投资者回忆自己之前做过的最重要的投资决策极其收益，发现人们会有高估自己投资回报的记忆偏误，而这个倾向是与他本人过度自信的程度，以及交易频率正向相关的。并且，通过行为纠正能够改善对应的偏误。文章提到了两种人们可能会产生记忆偏误的原因，分别是记忆扭曲(distortion)和选择性遗忘(selective forgetting)。记忆扭曲指的是人们记得自己以往的盈亏，不过会高估自赚的钱，低估自己亏的钱；而选择性遗忘则是只记得自己赚过的，忘记了自己亏过的。通过实验设计将这两种可能产生正向记忆偏误的原因进行了区分，发现这两种情况都会影响人们的记忆偏误。
 
