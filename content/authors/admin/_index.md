@@ -5,7 +5,7 @@ superuser: true
 
 role: PhD. Student
 
-avatar_filename: avatar.jpg
+avatar_filename: avatar-2024.png
 
 # Organizations/Affiliations to show in About widget
 organizations:
