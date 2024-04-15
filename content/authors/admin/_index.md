@@ -5,7 +5,7 @@ superuser: true
 
 role: PhD. Student
 
-avatar_filename: avatar.jpg
+avatar_filename: avatar-2024.png
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -53,8 +53,6 @@ email: "denghuixin_stephy@outlook.com"
 highlight_name: true
 ---
 
-I am a Ph.D. student in Marketing at the School of Management, Fudan
-  University. My research topics cover consumer motive inference, incentive
-  design in referral programs, and price promotion. I am also a podcast producer and harmonica lover.
+Huixin Deng is a Lecturer of Marketing at Royal Holloway, University of London. She received her PhD in Marketing and Bachelor’s degree in Financial Management from Fudan University.  Huixin’s research interests cover consumer motivation, marketing communication, and referral reward program design.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "doc/HuixinDeng_CV_EN_Mar2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
