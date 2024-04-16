@@ -1,5 +1,5 @@
 ---
-title: "运筹学是一门平衡的艺术|跟“摸鱼人”覃含章聊聊运筹在商业中的应用"
+title: "S1E8 运筹学是一门平衡的艺术|跟“摸鱼人”覃含章聊聊运筹在商业中的应用"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -17,7 +17,7 @@ abstract: 今天跟我聊天的“网友”有个特别的网名——摸鱼人�
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-25T13:00:00Z"
+date: "2021-02-19T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 

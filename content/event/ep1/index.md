@@ -1,5 +1,5 @@
 ---
-title: "1. 社会科学之于我，正如古典音乐之于周杰伦 | Google 数据科学家的自我修养"
+title: "S1E1 社会科学之于我，正如古典音乐之于周杰伦 | Google 数据科学家的自我修养"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -17,12 +17,12 @@ abstract: 这个周五晚跟我聊天的是我的好朋友Peter，他的每一�
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-04 T13:00:00Z"
+date: "2020-09-04T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-22T00:00:00Z"
+publishDate: "2020-09-04T13:00:00Z"
 
 authors: []
 tags: []

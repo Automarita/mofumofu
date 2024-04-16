@@ -1,5 +1,5 @@
 ---
-title: "灵魂与机器 | 一些与营销相关的人工智能科普"
+title: "S1E4 灵魂与机器 | 一些与营销相关的人工智能科普"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -17,7 +17,7 @@ abstract: 这是一期个人完成的播客，大概是做访谈有些疲惫了�
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-08T13:00:00Z"
+date: "2020-10-09T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 

@@ -1,5 +1,5 @@
 ---
-title: "环保是一件有社会性且有意义的事 | 从人大附中走出的环保践行者"
+title: "S1E2 环保是一件有社会性且有意义的事 | 从人大附中走出的环保践行者"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -17,12 +17,12 @@ abstract: 这周跟我聊天的小伙伴阿蛋，她从人大附中走出，现�
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-05T13:00:00Z"
+date: "2020-09-25T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-23T00:00:00Z"
+publishDate: "2020-09-25T00:00:00Z"
 
 authors: []
 tags: []

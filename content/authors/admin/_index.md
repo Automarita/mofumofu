@@ -3,14 +3,14 @@ title: Huixin Deng (邓慧欣)
 
 superuser: true
 
-role: PhD. Student
+role: Lecturer in Marketing
 
-avatar_filename: avatar.jpg
+avatar_filename: avatar-2024_1.jpg
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Fudan Behavioral Science Center
-    url: https://fdbsc.com/
+  - name: Royal Holloway, University of London
+    url: https://pure.royalholloway.ac.uk/en/persons/huixin-deng
   
 bio: 
 
@@ -25,7 +25,7 @@ education:
   courses:
     - course: PhD Student in Business Administration
       institution: Fudan University
-      year: ""
+      year: 2024
     - course: BSc in Financial Management
       institution: Fudan University
       year: 2018
@@ -53,8 +53,6 @@ email: "denghuixin_stephy@outlook.com"
 highlight_name: true
 ---
 
-I am a Ph.D. student in Marketing at the School of Management, Fudan
-  University. My research topics cover consumer motive inference, incentive
-  design in referral programs, and price promotion. I am also a podcast producer and harmonica lover.
+Huixin Deng is a Lecturer of Marketing at Royal Holloway, University of London. She received her PhD in Marketing and Bachelor’s degree in Financial Management from Fudan University.  Huixin’s research interests cover consumer motivation, marketing communication, and referral reward program design.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "doc/HuixinDeng_CV_EN_Mar2022.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,5 +1,5 @@
 ---
-title: "基于用户推荐计划(referral program)/移动支付的思考| 周三晚摸鱼"
+title: " S1E7 基于用户推荐计划(referral program)/移动支付的思考| 周三晚摸鱼"
 
 event: 周五晚
 event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-friday-night/id1530400989
@@ -16,7 +16,7 @@ event_url: https://podcasts.apple.com/us/podcast/%E5%91%A8%E4%BA%94%E6%99%9A-fri
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-20T13:00:00Z"
+date: "2020-12-18T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
