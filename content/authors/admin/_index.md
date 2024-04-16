@@ -3,14 +3,14 @@ title: Huixin Deng (邓慧欣)
 
 superuser: true
 
-role: PhD. Student
+role: Lecturer in Marketing
 
-avatar_filename: avatar-2024.png
+avatar_filename: avatar-2024_1.jpg
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Fudan Behavioral Science Center
-    url: https://fdbsc.com/
+  - name: Royal Holloway, University of London
+    url: https://pure.royalholloway.ac.uk/en/persons/huixin-deng
   
 bio: 
 
@@ -25,7 +25,7 @@ education:
   courses:
     - course: PhD Student in Business Administration
       institution: Fudan University
-      year: ""
+      year: 2024
     - course: BSc in Financial Management
       institution: Fudan University
       year: 2018
